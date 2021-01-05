@@ -24,6 +24,11 @@ body {
   font-size: 50px;
 }
 
+header {
+  width: 65%;
+  margin: 0 auto;
+}
+
 .controls {
   margin-bottom: 50px;
 }
